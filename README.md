@@ -5,6 +5,7 @@ Used models:
 - KMeans
 - Hierarchical Clustering
 
-Result: categorise the countries using socio-economic and health factors that determine the overall development of the country
+Purpose: categorise the countries using socio-economic and health factors that determine the overall development of the country.
 
-Outcomes checked with results from kaggle.
+Open clusters.ipynb to see code and results.
+
