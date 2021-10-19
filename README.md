@@ -7,5 +7,5 @@ Used models:
 
 Purpose: categorise the countries using socio-economic and health factors that determine the overall development of the country.
 
-Open clusters.ipynb to see code and results.
+Open *clusters.ipynb* to see code and results.
 
